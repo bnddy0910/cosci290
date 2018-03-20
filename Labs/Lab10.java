@@ -5,14 +5,20 @@
 
 public class Lab10{
   public static void main(String[] args){
-    System.out.println("Celsius Fahrenheit | Fahrenheit Celsius");
-    public static double celsiusToFahrenheit(double celsius){
-      fahrenheit = (9.0 / 5) * celsius + 32;
-    }
+    int Celsius = 40;
+    int Fahrenheit = 120;
     
-    public static double fahrenheitToCelsius(double fahrenheit){
-      celsius = (5.0 / 9) * (fahrenheit – 32);
-    }
-
+    System.out.println("Celsius Fahrenheit | Fahrenheit Celsius");
+    System.out.println(double CelsiusToFahrenheit; double FahrenheitToCelsius);
+  }
+  
+  
+    public static double CelsiusToFahrenheit(double Celsius){
+    double Celsius = (5.0 / 9) * (Fahrenheit - 32);
+  }
+  
+  
+    public static double FahrenheitToCelsius(double Fahrenheit){
+    double Fahrenheit = (9.0 / 5) * Celsius + 32;
   }
 }
