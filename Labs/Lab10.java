@@ -5,8 +5,8 @@
 
 public class Lab10{
   public static void main(String[] args){
-    int Celsius = 40;
-    int Fahrenheit = 120;
+    int Celsius;
+    int Fahrenheit;
     
     System.out.println("Celsius Fahrenheit | Fahrenheit Celsius");
     System.out.println(double CelsiusToFahrenheit; double FahrenheitToCelsius);
