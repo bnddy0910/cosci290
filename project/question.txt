@@ -1,0 +1,1 @@
+You have been choosen to play a tower escape game , here's the rules, you will choose from four doors, if you choose the right doors, you will go up, if you choose the wrong doors, you will go down, when you reach the top of the twoer, you win. do you want to continue? Yes or No?
