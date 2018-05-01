@@ -58,6 +58,8 @@ public class GameDriver{
     
     System.out.println("There's four " + color + " doors showes up, door 1 is in front of you, door 2 on your left and 3 on the right, and 4 behind you, which one do you choose to open?");
     
+    randomNum = input.nextInt();
+    
     if(randomNum >= 98){
     System.out.println("The door right in front of you open, it's an elevator, it takes you up 3 floors!");
   }
@@ -71,7 +73,8 @@ public class GameDriver{
   }
   
     else{
-    System.out.println("The floor disappear, you fall to the bottom floor!");}
+    System.out.println("The floor disappear, you fall to the bottom floor!");
+    }
       
     tool.readfile("gameover.txt");
 

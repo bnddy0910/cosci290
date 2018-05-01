@@ -1,1 +1,5 @@
-You have been choosen to play a tower escape game , here's the rules, you will choose from four doors, if you choose the right doors, you will go up, if you choose the wrong doors, you will go down, when you reach the top of the twoer, you win. do you want to continue? Yes or No?
+Now, let me explain the rules. You're in a tower of total 23 floor, your current floor level is unknown.
+This tower used to be the tallest in the country, now it's been cursed and bury in the ground, only the 
+top of the tower is beyond the ground, and the bottum floor is full of poison snakes. You will face some 
+options to either help you reach the top floor, or will get you to the bottum of this tower, do you want
+to play this game?
